@@ -1,0 +1,541 @@
+JobTitle,isSaved,MinimumExperience,MaximumExperience,MinSalary,MaxSalary,CreationDate,Description,EmployeeType,IndustryType,Location,MinimumQualification,Promote,Specialization,JobStatus,VisitorCount,job_url,SkillsRequired,ScreeningQuestions,job_recruiter_recruiter_id
+Data Engineer,no,0,2,5,7,5/1/2025,"<h4 style=""color: red;"">About the Job</h4>
+<ul>
+  <li>Good Python, PySpark programming & scripting skills.</li>
+  <li>Azure Databricks with PySpark.</li>
+  <li>Azure ADF, EventHub.</li>
+  <li>Snowflake SQL/ alert configuration.</li>
+  <li>Denodo VQL and CI CD knowledge.</li>
+  <li>Azure Function app and Gen AI orchestrator (development - Python FastAPI/ containerised deployment on Azure web app services).</li>
+  <li>Ability to write complex SQL queries.</li>
+  <li>Hands-on experience in building Data Pipelines (data ingestion, data transformation, data curation).</li>
+  <li>Experience with Agile development practices.</li>
+</ul>
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,Python,,20460
+Fullstack Developer,no,0,2,1.8,2.5,5/1/2025,"<h4 style=""color: red;"">About the Job</h4>
+<ul>
+  <li>2 to 3 yrs of experience working as a full stack Java developer.</li>
+  <li>Experience in web development with AngularJS.</li>
+  <li>Experience working with RDBMS such as Oracle, SQL Server, PostgreSQL.</li>
+  <li>Experience in SOAP/RESTful web services.</li>
+  <li>JavaScript, CSS, HTML, JSON, JQuery, AngularJS.</li>
+  <li>Skills:- Javascript, AngularJS (1.x) and Java.</li>
+</ul>
+",Full Time,IT,Chennai,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"HTML, CSS, JavaScript",,20461
+Fullstack Engineer (MERN),no,0,2,3.2,4,5/1/2025,"<h4 style=""color: red;"">Responsibilities</h4>
+<ul>
+  <li>Develop responsive web interfaces using React.js, HTML5, and CSS3.</li>
+  <li>Build and maintain backend services using Node.js, Express.js, or related frameworks.</li>
+  <li>Collaborate with UX/UI designers and other developers to translate designs into functional components.</li>
+  <li>Write clean, scalable, and maintainable code.</li>
+  <li>Integrate RESTful APIs and third-party services.</li>
+  <li>Assist in troubleshooting, debugging, and improving existing applications.</li>
+  <li>Participate in code reviews, agile ceremonies, and sprint planning sessions.</li>
+  <li>Keep up-to-date with industry trends and emerging technologies.</li>
+</ul>
+
+<h4 style=""color: red;"">Required Skills & Qualifications</h4>
+<ul>
+  <li>Bachelor's degree in Computer Science, Engineering, or related field.</li>
+  <li>0-2 years of hands-on experience in full stack development.</li>
+  <li>Proficiency with React.js and frontend technologies (JavaScript, HTML, CSS).</li>
+  <li>Understanding of Node.js, Express.js, or similar backend frameworks.</li>
+  <li>Familiarity with MongoDB, MySQL, or other databases.</li>
+  <li>Knowledge of version control tools like Git.</li>
+  <li>Basic understanding of REST APIs and integration concepts.</li>
+  <li>Strong problem-solving skills and attention to detail.</li>
+  <li>Good communication and teamwork abilities.</li>
+</ul>
+
+<h4 style=""color: red;"">Nice To Have</h4>
+<ul>
+  <li>Exposure to cloud platforms like AWS, Azure, or GCP.</li>
+  <li>Experience with Docker, CI/CD pipelines.</li>
+  <li>Familiarity with TypeScript and testing frameworks (Jest, Mocha, etc.).</li>
+</ul>
+<h4 style=""color: red;"">Skills</h4>
+<p>express.js, react, rest apis, node.js, css3, mongodb, javascript, react.js, mysql, full stack development, html5, git</p>
+",Full Time,IT,Hyderabad,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"CSS, MongoDB, JavaScript",,20462
+Frontend Developer,no,0,2,3.5,4.2,5/1/2025,"<h4 style=""color: red;"">About the Job</h4>
+
+<h4 style=""color: red;"">Key Responsibilities</h4>
+<ul>
+  <li>Develop and maintain complex layouts using HTML5 and CSS3, ensuring proficiency in these technologies.</li>
+  <li>Utilize ES6+ features and asynchronous programming in JavaScript to build robust applications.</li>
+  <li>Build and maintain components and services in Angular and TypeScript, leveraging strong experience in these areas.</li>
+  <li>Create responsive layouts using frameworks like Bootstrap or Material Design, demonstrating familiarity with these frameworks.</li>
+  <li>Use Git for version control and collaboration with team members, showcasing experience with version control systems.</li>
+  <li>Configure and manage web servers, including IIS, with knowledge of web server configuration and management.</li>
+  <li>Integrate and consume RESTful APIs and handle data fetching, highlighting the ability to work with APIs.</li>
+  <li>Manage file uploads, downloads, and basic file system operations, demonstrating experience with file handling operations.</li>
+  <li>Implement authentication and authorization using OAuth, JWT, and session management, with knowledge of these mechanisms.</li>
+  <li>Utilize advanced debugging tools and techniques to troubleshoot and optimize applications, showcasing proficiency in debugging and performance optimization.</li>
+  <li>Implement performance optimization techniques to enhance application efficiency.</li>
+  <li>Ensure web security best practices are followed, with an understanding of web security principles.</li>
+  <li>Leverage various JavaScript libraries to enhance functionality, demonstrating familiarity with these libraries.</li>
+  <li>Experience with NgRx (for Angular) or other state management libraries to manage complex application states.</li>
+  <li>Proficiency with testing frameworks like Jasmine, Karma, Jest, or Cypress for automated testing.</li>
+  <li>Proficient in using IDEs like Visual Studio Code, WebStorm, or Visual Studio.</li>
+  <li>Desirable: Experience with implementing CI/CD pipelines using tools like Jenkins, GitLab CI, or GitHub Actions.</li>
+</ul>
+
+<h4 style=""color: red;"">Qualifications</h4>
+<ul>
+  <li>3+ years of experience in software development.</li>
+  <li>Bachelor's degree in Computer Science, Engineering, or a related field.</li>
+</ul>
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"HTML, CSS, Angular, TypeScript",,20463
+"Software Engineer, Apps",no,0,2,7,10,5/1/2025,"<h4 style=""color: red;"">About the Job</h4>
+
+<h4 style=""color: red;""> The Role</h4>
+<p>We're looking for a Software Engineer - Apps to join our team at Headout. You'll work closely with product managers, designers, and data teams to build and improve features on our mobile app. If you're excited to learn, collaborate, and build products used by thousands of users globally, this is the perfect opportunity for you.</p>
+
+<h4 style=""color: red;""> What Makes This Role Special?</h4>
+<ul>
+  <li>Build end-to-end features that directly impact thousands of users.</li>
+  <li>Build cutting-edge mobile experiences with a modern tech stack — React Native, TypeScript, and native iOS/Android integrations, combining the best of cross-platform agility with native performance.</li>
+  <li>Be part of a team where you'll gain exposure to the full engineering lifecycle — from system design decisions to refining user experience and app speed.</li>
+  <li>Learn from experienced engineers and grow into a senior role over time.</li>
+  <li>Be part of a fast-growing product used by a global audience.</li>
+</ul>
+
+<h4 style=""color: red;""> What Skills & Experience Do You Need?</h4>
+<ul>
+  <li>6+ months of experience building mobile apps, ideally using React Native.</li>
+  <li>Good working knowledge of JavaScript/TypeScript.</li>
+  <li>Familiarity with app architectures and platform-specific guidelines.</li>
+  <li>Exposure to native development (iOS or Android) and native module integration.</li>
+  <li>Understanding of state management libraries (like Jotai or similar).</li>
+  <li>Basic understanding of responsive UI and app performance optimization.</li>
+  <li>Familiarity with offline-first storage techniques (e.g., local storage).</li>
+  <li>Curiosity, willingness to learn, and strong collaboration skills.</li>
+</ul>
+
+<h4 style=""color: red;""> Bonus</h4>
+<ul>
+  <li>Hands-on experience with iOS or Android native development.</li>
+  <li>Contributions to open-source projects or personal side projects.</li>
+  <li>Ability to take ownership of small features and deliver independently.</li>
+</ul>
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://job-boards.greenhouse.io/headoutcareers/jobs/4563784006?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,"HTML, CSS, JavaScript",,20464
+Software Engineer (React) ,no,0,2,4.5,8.3,5/1/2025,"<h4 style=""color: red;"">About the Job</h4>
+<p>The ideal candidate will be responsible for developing high-quality applications. They will also be responsible for designing and implementing testable and scalable code.</p>
+
+<h4 style=""color: red;"">Responsibilities</h4>
+<ul>
+  <li>Develop quality software and web applications</li>
+  <li>Analyze and maintain existing software applications</li>
+  <li>Design highly scalable, testable code</li>
+  <li>Discover and fix programming bugs</li>
+</ul>
+
+<h4 style=""color: red;"">Qualifications</h4>
+<ul>
+  <li>Bachelor's degree or equivalent experience in Computer Science or related field</li>
+  <li>Development experience with programming languages</li>
+  <li>SQL database or relational database skills</li>
+</ul>
+",Full Time,IT,Hyderabad,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,SQL,,20465
+SDET 1,no,0,2,4.5,5.2,5/1/2025,"<h4 style=""color: red;"">Hard Skills</h4>
+<ul>
+  <li>1 - 3 years of experience in Software Testing.</li>
+  <li>1+ years of experience in Appium.</li>
+  <li>1+ years of experience in API Testing.</li>
+  <li>Good exposure in writing Appium script for Android, iOS hybrid apps and Rest Assured/Karate for API's.</li>
+  <li>Experience working on Java programming language.</li>
+  <li>Experience in working with Page Object Model design pattern.</li>
+  <li>Experience working on TestNG, Maven, BitBucket, Git and Jenkins.</li>
+  <li>Experience in Android adb and iOS commands.</li>
+  <li>Sound understanding of Agile and SDLC methodologies.</li>
+  <li>Experience in working with Any IDE tools such as Eclipse or IntelliJ IDEA.</li>
+  <li>Familiar with the Postman tool.</li>
+</ul>
+
+<h4 style=""color: red;"">Good to Have</h4>
+<ul>
+  <li>Experience in automating Web applications using Selenium.</li>
+  <li>Integration of automation suites with Cloud service providers such as Browserstack, AWS Farm.</li>
+  <li>Knowledge of blockchain technology, smart contracts and cryptocurrency will be an added advantage.</li>
+  <li>Working in a growing start-up environment.</li>
+  <li>Experience in the fintech domain will be another added advantage.</li>
+  <li>Knowledge of Shell scripting.</li>
+</ul>
+
+<h4 style=""color: red;"">You Will Be Mining Through These Tasks</h4>
+<ul>
+  <li>Develop automated test scripts to maximize efficiency using In house Appium Framework (App Automation) or Karate or Rest Assured Framework (API Automation).</li>
+  <li>Writing and debugging automated tests script for new features and maintaining existing test scripts.</li>
+  <li>Maintain various reports to track Mobile and API automation coverage for projects and present Weekly Status report to Stakeholders.</li>
+  <li>Understand the Product and review Test cases with the Manual Testing team to automate.</li>
+</ul>
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://careers.coindcx.com/opportunities/jd?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,Java,,20466
+Frontend Engineer,no,0,2,3.2,4.1,5/2/2025,"<h4 style=""color: red;"">Responsibilities</h4>
+<ul>
+  <li>Collaborate with the design and development teams to translate UI/UX designs into interactive web pages or applications.</li>
+  <li>Develop responsive web interfaces and ensure cross-browser compatibility.</li>
+  <li>Write clean, modular, and maintainable code using best practices and coding standards.</li>
+  <li>Optimize application performance and ensure scalability.</li>
+  <li>Conduct thorough testing and debugging to identify and fix issues.</li>
+  <li>Collaborate with backend developers to integrate frontend interfaces with server-side logic.</li>
+  <li>Stay up-to-date with the latest front-end technologies, trends, and frameworks.</li>
+  <li>Participate in code reviews and provide constructive feedback to improve code quality.</li>
+  <li>Work closely with stakeholders to understand requirements and propose effective technical solutions.</li>
+</ul>
+
+<h4 style=""color: red;"">Qualifications</h4>
+<ul>
+  <li>Bachelor's degree in Computer Science, Engineering, or a related field.</li>
+  <li>Minimum 1.5 Years Of Experience As a Frontend Developer.</li>
+  <li>Strong proficiency in React, JavaScript, CSS, and HTML.</li>
+  <li>Solid understanding of frontend architecture design patterns and concepts.</li>
+  <li>Experience with frontend frameworks like Redux, Vue.js, or Angular is a plus.</li>
+  <li>Familiarity with RESTful APIs and asynchronous request handling.</li>
+  <li>Knowledge of version control systems (e.g., Git) and project management tools (e.g., Jira).</li>
+  <li>Ability to collaborate effectively with cross-functional teams.</li>
+  <li>Strong problem-solving skills and attention to detail.</li>
+  <li>Excellent communication and interpersonal skills.</li>
+</ul>
+
+<h4 style=""color: red;"">Skills</h4>
+<p>Javascript, React.js and HTML/CSS</p>
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"HTML, CSS, React, JavaScript",,20467
+Full Stack Engineer ,no,0,2,2.5,3.2,5/2/2025,"<h4 style=""color: red;"">Position Summary</h4>
+<p>
+We are seeking a highly skilled Full Stack Engineer to join our growing technology team. In this role, you will be responsible for developing and maintaining dynamic, scalable web applications that enhance the user experience and meet the business needs of our clients. The ideal candidate is a problem solver with a passion for technology and a strong understanding of both front-end and back-end development.
+</p>
+
+<h4 style=""color: red;"">Key Responsibilities</h4>
+<ul>
+  <li>Design, develop, and maintain web applications using modern web frameworks and tools.</li>
+  <li>Collaborate with product managers, designers, and other engineers to deliver robust, scalable solutions.</li>
+  <li>Build efficient, reusable, and scalable front-end components using HTML, CSS, and JavaScript (React, Angular, or Vue.js).</li>
+  <li>Develop and optimize server-side logic and APIs using Node.js, Python, Ruby, or similar back-end technologies.</li>
+  <li>Integrate third-party APIs and services, ensuring data flows securely and efficiently between platforms.</li>
+  <li>Write clean, well-documented, and maintainable code with an emphasis on performance and security.</li>
+  <li>Conduct thorough testing (unit, integration, and end-to-end) to ensure product quality.</li>
+  <li>Participate in code reviews, ensuring adherence to best practices and high-quality standards.</li>
+  <li>Troubleshoot, debug, and improve existing applications and workflows.</li>
+  <li>Stay up-to-date with industry trends, technologies, and best practices.</li>
+</ul>
+
+<h4 style=""color: red;"">Key Requirements</h4>
+<ul>
+  <li>3+ years of experience as a Full Stack Engineer or in a similar role.</li>
+  <li>Proficiency in JavaScript/TypeScript and modern front-end frameworks (e.g., React, Angular, Vue.js).</li>
+  <li>Strong experience with back-end development using Node.js, Python, Ruby, or a similar language.</li>
+  <li>Experience with SQL and NoSQL databases (e.g., MySQL, PostgreSQL, MongoDB).</li>
+  <li>Familiarity with cloud platforms such as AWS, Azure, or Google Cloud.</li>
+  <li>Proficiency in version control systems, such as Git.</li>
+  <li>Experience with containerization and orchestration tools like <strong>Docker</strong> and Kubernetes is a plus.</li>
+  <li>Familiarity with CI/CD pipelines and automated testing.</li>
+  <li>Strong understanding of RESTful API design and implementation.</li>
+  <li>Excellent problem-solving and troubleshooting skills.</li>
+  <li>Strong communication and teamwork abilities.</li>
+</ul>
+
+<h4 style=""color: red;"">Preferred Qualifications</h4>
+<ul>
+  <li>Experience with microservices architecture.</li>
+  <li>Knowledge of GraphQL and WebSockets.</li>
+  <li>Familiarity with DevOps practices and infrastructure as code (e.g., Terraform, Ansible).</li>
+  <li>Experience in Agile or Scrum methodologies.</li>
+</ul>
+",Full Time,IT,Hyderabad,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"SQL, Python, MongoDB, JavaScript",,20468
+Full Stack Engineer ,no,0,2,5,7,5/2/2025,"<h4 style=""color: red;"">Core Responsibilities</h4>
+<p>
+We are looking for strong full-stack engineers across multiple levels to join our team and help us build innovative web applications and cloud services that deliver the power of generative AI to our customers.
+</p>
+<ul>
+  <li>Own the delivery of key product and technology initiatives across design, specification, development, testing and launch.</li>
+  <li>Deliver high-quality software that can be easily read and leveraged by others.</li>
+  <li>Collaborate with designers, product managers, marketing, and other engineers.</li>
+  <li>Investigate, prototype, and deliver innovative solutions throughout the stack.</li>
+  <li>Define and drive adoption of best practices for building modern web applications and cloud services.</li>
+</ul>
+
+<h4 style=""color: red;"">Minimum Qualifications</h4>
+<ul>
+  <li>B.Tech. in computer science or a related field.</li>
+  <li>2-4 years of experience in full-stack development.</li>
+  <li>Demonstrated experience with the following: JavaScript frameworks (Spring/Spring Boot), Java, Python, Node.js, React.js.</li>
+  <li>Demonstrated experience developing on a major cloud platform (AWS, Azure, GCP).</li>
+</ul>
+
+<h4 style=""color: red;"">Preferred Qualifications</h4>
+<ul>
+  <li>Strong experience with database systems (relational or NoSQL) and pub/sub systems (Kafka, AWS SNS, Azure EventHub).</li>
+  <li>Experience building AI and ML applications and using LLM APIs.</li>
+  <li>Any AI, data science, or ML experience will be highly valued.</li>
+  <li>Experience building data analytics services.</li>
+  <li>Experience optimizing performance across the entire stack.</li>
+  <li>Experience working at a high-growth startup or tech company.</li>
+  <li>Engineering degrees from top universities (IITs, BITS, NITs) preferred.</li>
+</ul>
+
+<h4 style=""color: red;"">Benefits</h4>
+<ul>
+  <li>Competitive salaries and equity.</li>
+  <li>Comprehensive benefits package (medical, dental, vision).</li>
+  <li>Opportunities for professional growth and development.</li>
+</ul>
+",Full Time,IT,Hyderabad,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"Java, Python, React, JavaScript",,20469
+Associate Engineer,no,0,2,10,12,5/2/2025,"<h4 style=""color: red;"">Roles & Responsibilities</h4>
+<ul>
+  <li>Apply the principles of design, development, testing, deployment, support, and evaluation.</li>
+  <li>Develop and deploy high-quality software solutions with comprehensive test coverage without supervision.</li>
+  <li>Analyse business objectives and translate requirements to technical implementation components.</li>
+  <li>Design and build programs or application features meeting business objectives and requirements.</li>
+  <li>Provide accurate estimates for the development effort for new features.</li>
+  <li>Provide mentoring and technical assistance to other members of the team.</li>
+  <li>Apply and promote industry best patterns and practices.</li>
+  <li>Contribute to the strategic engineering goals within own team and platform.</li>
+  <li>Lead Level 3 or above support and technical troubleshooting activity.</li>
+  <li>Have demonstrated experience in large and complex enterprise environments, preferably in banking and financial services, or similar large enterprise environments developing solutions in Java.</li>
+  <li>Provide technical governance and guidance throughout the complete solution delivery lifecycle.</li>
+  <li>Are passionate about learning new tools and technologies and are constantly thinking outside the box.</li>
+  <li>Design, document and implement solutions to distribute source system data via bulk interfaces.</li>
+  <li>Produce high-quality technical solutions that are sustainable by utilising approved delivery frameworks and using industry best practices.</li>
+  <li>Contribute to complex delivery planning by providing guidance and oversight to ensure that technical deliveries are aligned with engineering direction and strategy.</li>
+  <li>Have the ability to constructively challenge the status quo, while influencing stakeholders at various levels.</li>
+  <li>Collaborate with peers and help grow capabilities within the squad and across the crew.</li>
+</ul>
+
+<h4 style=""color: red;"">Essential Skills</h4>
+<ul>
+  <li>Hands-on experience with 2 to 4 years in Java and Spring/Spring Boot essential.</li>
+  <li>REST APIs including creation of Open API specifications essential.</li>
+  <li>Knowledge on API Gateway would be beneficial but not essential.</li>
+  <li>Experience in building modern microservices architecture.</li>
+  <li>Cloud platforms: AWS services is preferred.</li>
+  <li>Configuration as Code to manage your application configuration.</li>
+  <li>Source control systems (Git), SAST/DAST, and with CI/CD toolsets.</li>
+  <li>Sound understanding of application and system security best practices.</li>
+</ul>
+
+<h4 style=""color: red;"">Education Qualifications</h4>
+<ul>
+  <li>Bachelor's degree/master's degree in engineering in Computer Science/Information Technology or any similar stream.</li>
+</ul>
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://cba.wd3.myworkdayjobs.com/CommBank_Careers/job/Bangalore---Manyata-Tech-Park-Road/Associate-Engineer_REQ236186?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,SpringBoot,,20470
+Frontend Developer,no,0,2,10,12,5/2/2025,"<h4 style=""color: red;"">INTRODUCTION</h4>
+<p>
+  As a frontend engineer on one of our game teams, you'll be a key contributor to developing amazing games that millions of customers around the world enjoy.
+  We're always looking for great engineers who want to help us build the next amazing game, or expand and improve an established game. You'll design and deliver
+  new game systems, new game features, and new ways to delight our customers and drive revenue. You should have experience in all phases of software development
+  and be self-directed. If you are an all-around great engineer who is willing to learn and tackle hard problems, there are ways to have a huge impact.
+  As part of a small and growing team you will have great opportunities to build systems from scratch and own them.
+</p>
+
+<h4 style=""color: red;"">KEY ROLES & RESPONSIBILITIES</h4>
+<ul>
+  <li>Working as part of one of our Game team or our systems team.</li>
+  <li>Regularly shipping updates to millions of customers.</li>
+  <li>Driving the design and iteration of new features and games, making good use of internal and external feedback.</li>
+  <li>Creating measurable success, be self-directed, and prioritize your own workload.</li>
+</ul>
+
+<h4 style=""color: red;"">QUALIFICATIONS</h4>
+<ul>
+  <li>2+ years of professional software development experience.</li>
+  <li>Programming experience, preferably in JavaScript/Java/C++.</li>
+  <li>You should have experience with Cocos Creator, Cocos2d-x, or Unity and should be willing to work across these engines. Experience with implementing platform-specific solutions is a plus.</li>
+  <li>An under-the-hood understanding of software systems, and awareness of best practices to build generic and performant systems are a plus.</li>
+  <li>Strong software engineering skills, including strong fundamentals in Algorithms and Data Structures.</li>
+  <li>Demonstrated ability to self-direct, and drive work to completion.</li>
+  <li>Strong communication skills, and the ability to work closely with a team of peers.</li>
+</ul>
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://www.bombayplay.com/jobs/dev-front.html#0?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,"Java, JavaScript",,20471
+SW Engineer,no,0,2,10,15,5/2/2025,"<h4 style=""color: red;"">Job Description</h4>
+<p>
+  Responsible for designing, developing and deploying enhancements and projects for Visa's Corporate Finance Systems, primarily Oracle eBusiness Suite (R12) and SAP Cloud Applications (Ariba, Concur).
+  Provide strong hands-on technical expertise, analyze business requirements, identify risks, and collaborate with the functional team and business users to deliver flexible, innovative, cost-effective solutions while meeting business needs.
+  Develop conceptual approaches, proof-of-concept prototypes, and technical execution plans; track progress against milestones; and drive results in partnership with other team members.
+</p>
+<ul>
+  <li>Design and execute unit test cases. Collaborate with QA team on formal QA testing.</li>
+  <li>Collaborate with project management and functional/Production Support teams to ensure on-time delivery of projects, production support plans, and knowledge transfer for long-term supportability of upgrades, enhancements, and deployments.</li>
+  <li>Evaluate 3rd party tools for security, scalability, and fit.</li>
+  <li>Work with Engineering teams (Windows, UNIX, Network, Storage, and Middleware) to translate application requirements into system requirements.</li>
+  <li>Create comprehensive documentation of designs for both small and large projects that take into account all areas of development.</li>
+  <li>Present solutions to key stakeholders and demonstrate working software to leads and management.</li>
+  <li>Follow existing application standards, conventions, and best practices as part of the existing SDLC.</li>
+  <li>Maintain, enhance and support, through problem analysis and resolution, the Oracle eBusiness Suite, SAP Ariba, SAP Concur, and other integrated applications.</li>
+  <li>Engage in lessons learned and continuous process improvement around the SDLC.</li>
+  <li>Ensure that applications and code are compliant with Visa security requirements.</li>
+  <li>This is a hybrid position. Expectation of days in office will be confirmed by your hiring manager.</li>
+</ul>
+
+<h4 style=""color: red;"">Qualifications</h4>
+<h5 style=""color: #444;"">Basic Qualification:</h5>
+<ul>
+  <li>Bachelor's degree OR 3+ years of relevant work experience.</li>
+</ul>
+
+<h5 style=""color: #444;"">Preferred Qualification:</h5>
+<ul>
+  <li>2 or more years of work experience with a Bachelor's Degree OR 1 or more years of relevant experience with an Advanced Degree (e.g. Masters, MBA, JD, MD).</li>
+  <li>Hands-on development experience and proficiency in common ERP development tools such as SQL and PL/SQL, Oracle Workflow, BI Publisher, UNIX Shell scripts, Oracle Application Framework, Java, JavaScript, HTML, and XML.</li>
+  <li>Experience in working with relational databases, architecture, and design.</li>
+  <li>Understanding of web-based enterprise application architecture and related technologies such as web server, database, and middleware.</li>
+  <li>Experience in working with Java, Python.</li>
+  <li>Knowledge of underlying integrations between applications, technology processes, and interface testing.</li>
+  <li>Strong verbal and written communication skills to communicate with management and business partners.</li>
+  <li>Driven and self-motivated. Work creatively to solve challenging problems. Multi-tasking ability essential to handle multiple priorities with minimal direction from management.</li>
+  <li>Experience in SAP cloud applications (Ariba and Concur).</li>
+  <li>Oracle ERP certifications.</li>
+  <li>Experience in ad-hoc query tools (Toad, SQL Developer, etc.).</li>
+  <li>Experience in an agile development environment.</li>
+</ul>
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://jobs.smartrecruiters.com/Visa/744000053929560-sw-engineer?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,"HTML, JavaScript, SQL, Python",,20472
+Full Stack Developer,no,0,2,4.3,4.8,5/2/2025,"<h4 style=""color: red;"">Job Overview</h4>
+<p>
+  As a Full Stack Developer, you will develop, maintain, and enhance websites and eCommerce platforms, focusing on WordPress and Shopify. You will play a key role in both front-end and back-end development, delivering high-performing, secure, and responsive solutions.
+</p>
+
+<h4 style=""color: red;"">Key Responsibilities</h4>
+<ul>
+  <li>Develop, customize, and maintain WordPress websites and Shopify stores.</li>
+  <li>Implement responsive and user-friendly interfaces using HTML, CSS, and JavaScript.</li>
+  <li>Build back-end functionality with PHP, JavaScript, and other relevant technologies.</li>
+  <li>Integrate third-party APIs and payment gateways.</li>
+  <li>Optimize for performance, SEO, and user experience.</li>
+  <li>Debug and troubleshoot front-end and back-end issues.</li>
+  <li>Collaborate with cross-functional teams to deliver digital solutions.</li>
+  <li>Stay updated with the latest trends and best practices in WordPress and Shopify development.</li>
+  <li>Ensure security best practices and continuously improve site performance.</li>
+</ul>
+
+<h4 style=""color: red;"">Key Requirements</h4>
+<ul>
+  <li>Proven experience in full-stack development, focusing on WordPress and Shopify.</li>
+  <li>Proficiency in front-end technologies (HTML5, CSS3, JavaScript).</li>
+  <li>Experience with custom WordPress themes/plugins and Shopify development.</li>
+  <li>Knowledge of responsive design and cross-browser compatibility.</li>
+  <li>Strong problem-solving skills and attention to detail.</li>
+  <li>Ability to work in an agile environment and deliver on time.</li>
+</ul>
+",Full Time,IT,Chennai,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"HTML, CSS, JavaScript",,20473
+Full Stack Engineer ,no,0,2,5.5,6.2,5/2/2025,"<h4 style=""color: red;"">Qualifications</h4>
+<p>BE/B.Tech/MSc/MCA</p>
+
+<h4 style=""color: red;"">Required Skills</h4>
+<ul>
+  <li>Understanding of AngularJS concepts, directives, routing, and other framework features.</li>
+  <li>Solid understanding of web technologies such as JavaScript, HTML, and CSS.</li>
+  <li>Strong Java programming skills, including experience with Java EE, Spring, or other Java frameworks.</li>
+  <li>Experience in designing and implementing RESTful APIs.</li>
+  <li>Familiarity with relational databases (e.g., MySQL, PostgreSQL) or NoSQL databases.</li>
+  <li>Experience with Git and other version control systems.</li>
+</ul>
+",Full Time,IT,Chennai,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"Java, HTML, CSS, JavaScript",,20474
+Full Stack Engineer ,no,0,2,2.7,3.5,5/2/2025,"<h4 style=""color: red;"">About the Job</h4>
+
+<h4 style=""color: red;"">Key Responsibilities</h4>
+<ul>
+  <li>As a Full Stack Engineer, you will develop and maintain full stack platform building using frameworks like Flask, Fast API.</li>
+  <li>Build and enhance user interfaces and experiences, including front-end and back-end systems and deploying complete applications.</li>
+  <li>Collaborate with data scientists, AI/ML engineers, and domain experts on cross-functional projects using Workspaces.</li>
+  <li>Keep up to date with the latest developments and trends in AI/ML applications and technologies.</li>
+</ul>
+
+<h4 style=""color: red;"">Job Qualifications and Skill Sets</h4>
+<ul>
+  <li>Bachelor's degree or several years of experience in computer science, data science, software development, or another related field.</li>
+  <li>Experience with web development frameworks and tools, such as React, Bootstrap, etc.</li>
+  <li>Proficient in Python, SQL, HTML, CSS, JavaScript, Node.js, or other programming languages for full stack platform framework development.</li>
+  <li>Effective communication, documentation, and white-boarding skills.</li>
+  <li>Passionate about platform building.</li>
+</ul>
+
+<h4 style=""color: red;"">Tech Stack Required</h4>
+<ul>
+  <li>Programming languages: Python, JavaScript, React.</li>
+  <li>Public Cloud: Azure.</li>
+  <li>Frameworks: Flask, Fast API, Event Driven Architecture (Python).</li>
+  <li>Experience: Experience building end-to-end web applications using Python, Node.js, React, API development (Python).</li>
+</ul>
+",Full Time,IT,Hyderabad,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"Python, React, JavaScript",,20475
+Associate Game Designer,no,0,2,8.1,10.4,5/2/2025,"<h4 style=""color: red;"">Position Summary</h4>
+
+<p>Do you want to own and shape all the elements of a great game: its setting, structure, rules, story flow, characters, interface design, and modes of play? Would you like to be part of a fun, driven, fast-paced team? PlaySimple Games is looking for Associate Game Designers who can take games all the way from concept development to delivery. If you have a great passion for games, enjoy building things from scratch, and have the ability to break through hurdles to drive ideas through to completion, you'll love this job.</p>
+
+<h4 style=""color: red;"">Requirements</h4>
+
+<h4 style=""color: red;"">What's required of you</h4>
+<ul>
+  <li>Design, balance and analyze new and existing features.</li>
+  <li>Collaborate with designers, product managers, artists and engineers to create a fun gaming experience.</li>
+  <li>Communicate designs to key stakeholders.</li>
+  <li>Create and maintain game documentation.</li>
+  <li>Organize and conduct play tests to get feedback for new feature prototypes.</li>
+</ul>
+
+<h4 style=""color: red;"">What we are looking for</h4>
+<ul>
+  <li>Understanding of casual games.</li>
+  <li>Experience with game systems design and balancing for casual games.</li>
+  <li>Passion for video games, including mobile games.</li>
+  <li>Strong analytical and problem-solving abilities.</li>
+  <li>Storytelling and narrative development skills.</li>
+  <li>Understanding of all processes involved in game production.</li>
+  <li>Strong interpersonal skills, and a track record of teamwork.</li>
+</ul>
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://careers.playsimple.in/jobs/Careers/34888000015105543/Associate-Game-Designer?utm_source=bitlabs-jobs-app&utm_medium=wbs-bj&utm_campaign=sup-bj-web,"HTML, CSS",,20476
+Application Developer (India),no,0,2,5.5,6.2,5/2/2025,"<h4 style=""color: red;"">About the job</h4>
+
+<p>At Allucent, we are dedicated to helping small-medium biopharmaceutical companies efficiently navigate the complex world of clinical trials to bring life-changing therapies to patients in need across the globe. We are seeking a highly skilled and experienced Application Developer to join our A-team (hybrid*). The ideal candidate will have a minimum of 2 years of experience in software development and possess a strong proficiency in both backend and frontend technologies. As an Application Developer, you will play a crucial role in designing, developing, and maintaining high-quality applications that meet the needs of our clients.</p>
+
+<h4 style=""color: red;"">In this role your key tasks will include:</h4>
+
+<ul>
+  <li>Design, develop, and maintain web applications using best practices and current technologies.</li>
+  <li>Write clean, scalable, and efficient code in backend technologies such as JAVA, Node.JS, and .NET.</li>
+  <li>Develop user-friendly interfaces using frontend frameworks like React and Angular.</li>
+  <li>Collaborate with cross-functional teams to define, design, and ship new features.</li>
+  <li>Implement and manage DevOps processes, including CI/CD pipelines, automated testing, and infrastructure as code.</li>
+  <li>Participate in code reviews and contribute to a continuous improvement mindset.</li>
+  <li>Stay updated with the latest industry trends and technologies to ensure our applications remain relevant and competitive.</li>
+  <li>Provide technical support and troubleshooting for existing applications as needed.</li>
+</ul>
+
+<h4 style=""color: red;"">Requirements</h4>
+
+<h4 style=""color: red;"">To be successful you should possess:</h4>
+<ul>
+  <li>Minimum of 2 years of professional experience in application development.</li>
+  <li>Proficiency in backend technologies: JAVA, Node.JS, and .NET.</li>
+  <li>Strong experience with frontend frameworks: React and Angular.</li>
+  <li>Deep understanding of DevOps processes and best practices.</li>
+  <li>Additional experience in Python is preferred.</li>
+  <li>Excellent problem-solving skills and attention to detail.</li>
+  <li>Strong communication and teamwork abilities.</li>
+  <li>Bachelor's degree in Computer Science, Information Technology, or a related field is preferred.</li>
+</ul>
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"Java, .Net, React, Angular, JavaScript",,20477
+Web Developer ,no,0,2,4.5,5.8,5/2/2025,"<h4 style=""color: red;"">About the job</h4>
+
+<h4 style=""color: red;"">Email Developer (Life Sciences)</h4>
+
+<p><strong>Job Summary:</strong> We are looking for a skilled Email Developer with a background in Life Sciences to join our team at Publicis Production. The ideal candidate will have hands-on experience developing Veeva-compliant emails for pharmaceutical and healthcare clients. You will collaborate with creative, marketing, and development teams to build, test, and optimize email campaigns.</p>
+
+<h4 style=""color: red;"">Key Responsibilities:</h4>
+<ul>
+  <li>Develop responsive and interactive HTML emails tailored to Veeva Vault and Veeva Approved Email (VAE) specifications.</li>
+  <li>Work with RTE (Reusable Text Elements) in Veeva to ensure modular and scalable email content.</li>
+  <li>Ensure all email templates meet pharmaceutical compliance standards and are optimized for cross-platform compatibility.</li>
+  <li>Implement personalization and dynamic content within email templates.</li>
+  <li>Conduct thorough testing (Litmus/Email on Acid) to ensure compatibility across various email clients and devices.</li>
+  <li>Troubleshoot rendering issues and optimize email code for deliverability and engagement.</li>
+  <li>Stay updated with email development best practices, Veeva platform updates, and pharma regulatory guidelines.</li>
+</ul>
+
+<h4 style=""color: red;"">Required Skills & Qualifications:</h4>
+<ul>
+  <li>2+ years of experience in email development with a focus on the life sciences or pharmaceutical industry.</li>
+  <li>Strong knowledge of HTML, CSS, and AMPscript for email development.</li>
+  <li>Experience working with Veeva CRM and Veeva Vault Approved Emails.</li>
+  <li>Familiarity with email testing tools (Litmus, Email on Acid) and ESP platforms (SFMC, Marketo, or similar).</li>
+  <li>Ability to troubleshoot and fix rendering issues across email clients (Outlook, Gmail, Apple Mail, etc.).</li>
+  <li>Strong collaboration and communication skills, with an ability to work in a fast-paced agency environment.</li>
+</ul>
+",Full Time,IT,Bangalore,B.tech,No,CSE,Active,0,https://www.bitlabs.in/jobs,"HTML, CSS",,20478
